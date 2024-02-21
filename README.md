@@ -1,5 +1,5 @@
 DREAM BOOTH VERSIÓN ENERO 2024
-https://github.com/davidruizduarte/stablediffusion_webui/blob/main/Google%20Colab%20Dreambooth.png
+![](https://github.com/davidruizduarte/stablediffusion_webui/blob/main/Google%20Colab%20Dreambooth.png)
 
 BY @VIAJATECH 
 
